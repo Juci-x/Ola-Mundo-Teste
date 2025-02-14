@@ -22,14 +22,6 @@ ul {
     margin-left: 20px;
 }
 
-a {
-    color: #0366d6;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
 
 p {
     margin-bottom: 1.2em;
